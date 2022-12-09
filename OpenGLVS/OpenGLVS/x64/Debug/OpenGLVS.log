@@ -1,0 +1,41 @@
+﻿  Framebuffer.cpp
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Framebuffer.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Texture.cpp
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Texture.cpp(11,20): error C2065: 'textureID': undeclared identifier
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Texture.cpp(12,31): error C2065: 'textureID': undeclared identifier
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Texture.cpp(27,23): error C2065: 'textureID': undeclared identifier
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Texture.cpp(33,31): error C2065: 'textureID': undeclared identifier
+  uniforms.cpp
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\Ray.cpp(188,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(397,10): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(401,10): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(403,10): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(408,10): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(427,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(590,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(591,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(595,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(596,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(598,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(599,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\CG_Final_Project\ConsoleApplication1\uniforms.cpp(608,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ray.cpp
+C:\Users\Asus\Desktop\Material\Ray.cpp(77,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
